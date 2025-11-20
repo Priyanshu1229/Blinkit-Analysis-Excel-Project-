@@ -42,7 +42,7 @@ This project covers:
 ---
 ## 📊 Dashboard Preview
 
-<img src="https://example.com/dashboard_screenshot.png" alt="Blinkit Dashboard" width="700"/>
+<img src=(https://github.com/Priyanshu1229/Blinkit-Analysis-Excel-Project-/blob/main/Blinkit%20%20excel%20%20project/Screenshot%202025-11-20%20193849.png)
 
 
 ---
