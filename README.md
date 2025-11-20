@@ -44,8 +44,7 @@ This project covers:
 
 
 
-![Blinkit Dashboard](https://example.com/dashboard_screenshot.png)
-
+![Blinkit Dashboard](https://github.com/Priyanshu1229/Blinkit-Analysis-Excel-Project-/blob/main/Blinkit%20%20excel%20%20project/Screenshot%202025-11-20%20193849.png)
 
 
 ---
